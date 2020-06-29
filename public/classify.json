@@ -1,0 +1,124 @@
+{
+    "nav":[
+        {"id":1,"name":"上衣"},
+        {"id":2,"name":"裤装"},
+        {"id":3,"name":"鞋靴"},
+        {"id":4,"name":"包类/装备"},
+        {"id":5,"name":"服饰"},
+        {"id":6,"name":"创意生活"},
+        {"id":7,"name":"有食"},
+        {"id":8,"name":"有玩"},
+        {"id":9,"name":"个人护理"}
+    ],
+    "list":[
+        {
+            "id":1,
+            "pid":1,
+            "title":"T桖"
+        },
+        {
+            "id":2,
+            "pid":1,
+            "title":"卫衣"
+        },
+        {
+            "id":3,
+            "pid":1,
+            "title":"夹克"
+        },
+        {
+            "id":4,
+            "pid":1,
+            "title":"衬衫"
+        },
+        {
+            "id":5,
+            "pid":1,
+            "title":"防风外套"
+        },
+        {
+            "id":6,
+            "pid":1,
+            "title":"风衣"
+        },
+        {
+            "id":7,
+            "pid":1,
+            "title":"POLO"
+        },
+        {
+            "id":8,
+            "pid":1,
+            "title":"西装"
+        },
+        {
+            "id":9,
+            "pid":1,
+            "title":"套装"
+        },
+        {
+            "id":10,
+            "pid":2,
+            "title":"牛仔裤"
+        },
+        {
+            "id":11,
+            "pid":2,
+            "title":"休闲裤"
+        },
+        {
+            "id":12,
+            "pid":2,
+            "title":"皮裤"
+        }
+
+       
+    ],
+    "good":[
+        {"id":1,
+        "type":1,
+        "title":"吉普JEEP翻领短袖T恤男士2020新品夏季商务休闲男装t恤衫8036 绿色 L",
+        "money":145,
+        "img":"https://img11.360buyimg.com/n7/jfs/t1/93855/27/19710/155554/5ea2585bE51d34f68/c1aaf5a82cac8099.jpg"
+        },
+        {"id":2,
+            "type":1,
+            "title":"吉普JEEP翻领短袖T恤男士2020新品夏季商务休闲男装t恤衫8036 绿色 L",
+            "money":199,
+            "img":"https://img12.360buyimg.com/n7/jfs/t29368/357/1517545389/329280/d2844499/5ce271dfN001515c9.jpg"
+        },
+        {"id":3,
+            "type":1,
+            "title":"吉普JEEP翻领短袖T恤男士2020新品夏季商务休闲男装t恤衫8036 绿色 L",
+            "money":180,
+            "img":"https://img11.360buyimg.com/n7/jfs/t1/118714/11/3000/185584/5ea56684E767efbfe/70c205ecddee69ba.jpg"
+        },
+        {"id":4,
+            "type":1,
+            "title":"吉普JEEP翻领短袖T恤男士2020新品夏季商务休闲男装t恤衫8036 绿色 L",
+            "money":160,
+            "img":"https://img10.360buyimg.com/n7/jfs/t1/106161/9/19823/257063/5ea0fa5bEc8a88c85/70d8a814391c19cc.jpg"
+        },
+        {"id":5,
+            "type":2,
+            "title":"以纯线上品牌A21春季2019男装 纯色圆领卫衣男潮流男生休闲长袖上衣服男士套衫R493132010 黑色 180/92A/XL",
+            "money":125,
+            "img":"https://img12.360buyimg.com/n7/jfs/t1/90826/12/14239/190904/5e64ba70E74cfa18b/3027bb7027af1a9d.jpg"
+        },
+        {"id":6,
+            "type":2,
+            "title":"以纯线上品牌A21春季2019男装 纯色圆领卫衣男潮流男生休闲长袖上衣服男士套衫R493132010 黑色 180/92A/XL",
+            "money":148,
+            "img":"https://img13.360buyimg.com/n7/jfs/t1/104838/22/14402/266289/5e65eff9Eb95195a0/53f8a3521a7aed17.jpg"
+         },
+         {"id":7,
+            "type":2,
+            "title":"以纯线上品牌A21春季2019男装 纯色圆领卫衣男潮流男生休闲长袖上衣服男士套衫R493132010 黑色 180/92A/XL",
+            "money":99,
+            "img":"https://img13.360buyimg.com/n7/jfs/t1/60079/16/13484/233195/5dac06dfEdf7ac41f/15bbf8643c30ae8d.jpg"
+        }
+
+      
+        
+    ]
+}
